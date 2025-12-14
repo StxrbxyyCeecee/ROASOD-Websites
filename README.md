@@ -1,6 +1,4 @@
-# ROASOD Website (ready)
-
-This folder contains a lightweight static site ready for deployment.
+# ROASOD Website 
 
 Files added:
 - INDEX.HTML — main landing page
@@ -10,6 +8,3 @@ Files added:
 - robots.txt — default crawler rules (update `Sitemap:`)
 - sitemap.xml — placeholder sitemap (replace domain before publishing)
 
-Preview locally: open `INDEX.HTML` in your browser.
-
-Deployment: upload the entire folder to any static host (GitHub Pages, Netlify, Vercel, S3, etc.). After deploying, update `robots.txt` and `sitemap.xml` with your real domain.
